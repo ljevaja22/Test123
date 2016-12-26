@@ -1,0 +1,12 @@
+{
+  "defaultEntryPoint": "index.html",
+  "namespace": "PMTest",
+  "menuEntries": [
+    {
+      "label": "PMTest",
+      "menu": "start",
+      "urlKey": "hello-world",
+      "entryPoint": "index.html"
+    }
+  ]
+}
